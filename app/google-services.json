@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893314613261",
+    "project_id": "prepeats-73edc",
+    "storage_bucket": "prepeats-73edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893314613261:android:8e07e33c87f175427f9544",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893314613261-iactafv65upij3evug5m4q72218ejm1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4PQPyUvWy-rS8Z28LqVbAeY0Kr_KvIeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893314613261-iactafv65upij3evug5m4q72218ejm1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
